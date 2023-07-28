@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi there 👋, My name is Sahil Sharma
 #### I am a Computer science engineering student with a specialisation in the field of machine learning, AI, Blockchain etc
-![I am a Computer science engineering student with a specialization in the field of machine learning, AI, Blockchainetc]https://www.vectorstock.com/royalty-free-vector/bearded-coder-hacker-vector-17477705
+![I am a Computer science engineering student with a specialization in the field of machine learning, AI, Blockchainetc]
 
 I made this project just for fun, it allows me to create nice and simple GitHub Readme files that anyone can use in their projects.
 

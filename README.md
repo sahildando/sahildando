@@ -1,15 +1,15 @@
 ### Hi there 👋
 ### Hi there 👋, My name is Sahil Sharma
-#### I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchaine tc
-![I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchainetc](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a Computer science engineering student with a specialisation in the field of machine learning, AI, Blockchain etc
+![I am a Computer science engineering student with a specialization in the field of machine learning, AI, Blockchainetc](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C++/Python / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on cleaning dataset in python 
-- 🌱 I’m currently learning DSA,DBMS,NETWORKING 
-- 💬 Ask me about oops,c,C++ 
+- 🔭 I’m currently working on cleaning dataset in Python 
+- 🌱 I’m currently learning DSA,DBMS, NETWORKING 
+- 💬 Ask me about oops,c, C++ 
 - 📫 How to reach me: https://t.me/incursioncommander 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I am always angry. 

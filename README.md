@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi there 👋, My name is Sahil Sharma
-#### I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchainetc
+#### I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchaine tc
 ![I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchainetc](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.

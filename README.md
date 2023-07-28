@@ -1,34 +1,34 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm sahildando</h1>
-<h3 align="center">A passionate programmer from India</h3>l
+### Hi there 👋, My name is Sahil Sharma
+#### I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchainetc
+![I am Computer science engineering student with speclisation in the field of machine learning , AI,Blockchainetc](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://AAAABAEkomarev.com/ghpvc/?username=sahildando&labe=Profile%20views&color=0e75b6&style=flat" alt="sahildando" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahildando" alt="sahildando" /></a> </p>
+Skills: C++/Python / REACT / JS / HTML / CSS
 
-<p align="left"> <a href="https://twitter.com/sahilsharma516" target="blank"><img src="https://img.shields.io/twitter/follow/sahilsharma516?logo=twitter&style=for-the-badge" alt="sahilsharma516" /></a> </p>
+- 🔭 I’m currently working on cleaning dataset in python 
+- 🌱 I’m currently learning DSA,DBMS,NETWORKING 
+- 💬 Ask me about oops,c,C++ 
+- 📫 How to reach me: https://t.me/incursioncommander 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I am always angry. 
 
-- 🌱 I’m currently learning **c++,css,js,Html**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/SAHIL-SHARMA-5935](https://www.quora.com/profile/SAHIL-SHARMA-5935)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sahildando)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahil-sharma-664207244//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sahil Sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gladiatorsahil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ SAHILSHARMA516)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Natural-Author1907)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](linktr.ee/SahilSharma19)  
 
-- 📫 How to reach me **https://t.me/incursioncommander**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sahil-sharma-664207244/](https://www.linkedin.com/in/sahil-sharma-664207244/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahildando)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahilsharma516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsharma516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil sharma" height="30" width="40" /></a>
-<a href="https://fb.com/sahil sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/gladiatorsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gladiatorsahil" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&count_private=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahildando&show_icons=true&locale=en&layout=compact" alt="sahildando" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahildando)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&locale=en" alt="sahildando" /></p>
+![GitHub metrics](https://metrics.lecoq.io/sahildando)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildando&" alt="sahildando" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sahildando)  
+
+

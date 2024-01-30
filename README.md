@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://codeandhack.com/wp-content/uploads/2023/09/Debug-Your-Code-Efficiently.jpg">
 

@@ -23,9 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilsharma516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsharma516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sahil-sharma-664207244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahil-sharma-664207244/" height="30" width="40" /></a>
 <a href="https://kaggle.com/sahilop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilop" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/theinvincible_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/theinvincible_05/" height="30" width="40" /></a>
 
 <a href="https://discord.gg/sahilsharma3290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahilsharma3290" height="30" width="40" /></a>
 </p>

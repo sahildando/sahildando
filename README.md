@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend Development, Python,ML,Android Development**
 
-- 📝 I regularly write articles on [https://medium.com/@sahilsharmadandotiya](https://medium.com/@sahilsharmadandotiya)
+- 📝 I regularly write articles on [https://medium.com/@sahilsharmadandotiya](Medium)
 
 - 💬 Ask me about **Html,CSS,Javascript**
 

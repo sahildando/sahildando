@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782">
-
-
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildando&label=Profile%20views&color=0e75b6&style=flat" alt="sahildando" /> </p>
 
@@ -12,11 +10,11 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Backend Development, Python,ML,Android Development**
+- 🌱 I’m currently learning **Backend Development, Python, ML, Android Development**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sahilsharmadandotiya)
 
-- 💬 Ask me about **Html,CSS,Javascript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sahilsharmadandotiya@gmail.com**
 
@@ -26,16 +24,11 @@
 <p align="left">
 <a href="https://twitter.com/sahilsharma516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsharma516" height="30" width="40" /></a>
 <a href="https://kaggle.com/sahilop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilop" height="30" width="40" /></a>
-
 <a href="https://discord.gg/sahilsharma3290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahilsharma3290" height="30" width="40" /></a>
 </p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahildando&show_icons=true&locale=en&layout=compact" alt="sahildando" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&locale=en" alt="sahildando" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildando&" alt="sahildando" /></p>
-
-

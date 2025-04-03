@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Grayson</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Russia, Dagestan, Makhachkala</h3>
 <img align="center" alt="Coding" width="400" src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildando&label=Profile%20views&color=0e75b6&style=flat" alt="sahildando" /> </p>

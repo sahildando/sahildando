@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/sahilsharma516" target="blank"><img src="https://img.shields.io/twitter/follow/sahilsharma516?logo=twitter&style=for-the-badge" alt="sahilsharma516" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Backend Development, Python, ML, Android Development**
+- 🌱 I’m currently learning **Data Structures and SQL Queries**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sahilsharmadandotiya)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **Networking and Operating System**
 
 - 📫 How to reach me **sahilsharmadandotiya@gmail.com**
 
-- ⚡ Fun fact **I am always Angry**
+- ⚡ Fun fact **I am always Tired**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

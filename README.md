@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS Major from Gwalior, Madhya Pradesh, India</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="300"  alt="Mark Grayson Mask Off">
+  <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="400"  alt="Mark Grayson Mask Off">
 </div
 
 <p align="left">

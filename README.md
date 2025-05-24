@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate CS Major from Gwalior, Madhya Pradesh, India</h3>
 
-<img align="middle" alt="Coding" width="600" src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif">
+<img align="centre" width="600" src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahildando&label=Profile%20views&color=0e75b6&style=flat" alt="sahildando" />

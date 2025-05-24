@@ -37,7 +37,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://twitter.com/sahilsharma516" target="blank">
+  <a href="https://twitter.com/TheBlackHerald7" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://kaggle.com/sahilop" target="blank">
@@ -67,6 +67,9 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sahildando's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=sahildando&theme=default&hide_border=true" alt="sahildando's GitHub Stats" />
 
 ### 📈 GitHub Contribution Graph
 

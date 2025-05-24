@@ -63,13 +63,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&theme=radical" alt="sahildando" />
-</p>
-
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sahildando's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=sahildando&theme=default&hide_border=true" alt="sahildando's GitHub Stats" />
+![sahildando's Stats](https://github-readme-stats.vercel.app/api?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![sahildando's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahildando&theme=gruvbox&hide_border=true)
+![sahildando's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 ### 📈 GitHub Contribution Graph
 

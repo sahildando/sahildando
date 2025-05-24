@@ -62,11 +62,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-![sahildando's Stats](https://github-readme-stats.vercel.app/api?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![sahildando's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahildando&theme=gruvbox&hide_border=true)
-![sahildando's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-<p/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="sahildando's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahildando&theme=gruvbox&hide_border=true" alt="sahildando's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="sahildando's Top Languages" />
+</p>
+
 
 
 ### 📈 GitHub Contribution Graph

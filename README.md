@@ -3,27 +3,25 @@
 
 <img align="center" alt="Coding" width="400" src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif">
 
-<p align="center">
-  <a href="https://sahildando.github.io/portfolio" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/sahilsharmadandotiya/" target="_blank">LinkedIn</a> |
-  <a href="https://medium.com/@sahilsharmadandotiya" target="_blank">Blog</a> |
-  <a href="https://leetcode.com/sahildando/" target="_blank">LeetCode</a> |
-  <a href="https://twitter.com/sahilsharma516" target="_blank">Twitter</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sahildando&label=Profile%20views&color=0e75b6&style=flat" alt="sahildando" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Computer Science Major | Mathematics & Computing | Final Year  
-- 🌱 Currently learning: **System Design**, **DevOps**, **Advanced DSA**
-- 💡 Interested in Open Source, DevOps, Machine Learning, and Competitive Programming
-- ✍🏻 Writing blogs on: [Medium](https://medium.com/@sahilsharmadandotiya)
-- 📬 Reach me at: **sahilsharmadandotiya@gmail.com**
-- 🎧 Fun Fact: I’m always tired but never stop learning!
+
+- 🔭 I’m currently working on **Myself**
+- 🌱 I’m currently learning **Data Structures and SQL Queries**
+- 📝 I regularly write articles on [Medium](https://medium.com/@sahilsharmadandotiya)
+- 💬 Ask me about **Networking and Operating System**
+- 📫 How to reach me: **sahilsharmadandotiya@gmail.com**
+- ⚡ Fun fact: **I am always Tired**
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🧰 Tech Stack & Tools
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,28 +34,39 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahildando&theme=github-dark-blue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&layout=compact&theme=github_dark" />
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://twitter.com/sahilsharma516" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/sahilop" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/sahilsharma3290" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=gruvbox&row=1&column=6" />
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=gruvbox" alt="sahildando" />
+  </a>
 </p>
 
 ---
 
-### 📢 Latest Blogs
-- [🔥 My Journey with Open Source](https://medium.com/@sahilsharmadandotiya)
-- [🚀 Projects I Built in College](https://medium.com/@sahilsharmadandotiya)
-- [🌱 How to Get Started in DevOps](https://medium.com/@sahilsharmadandotiya)
+### 📊 GitHub Stats
 
-- ---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&show_icons=true&theme=radical" alt="sahildando" />
+</p>
+
+---
 
 ### 📈 GitHub Contribution Graph
 
@@ -65,23 +74,5 @@
   <img alt="Sahil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahildando&theme=react-dark&hide_border=true&area=true" />
 </a>
 
-
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/sahilsharma516" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsharma516" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/sahilop" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilop" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/sahilsharma3290" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahilsharma3290" height="30" width="40" />
-  </a>
-</p>
-
----
-
-> 💥 "Success isn’t owned. It’s leased. And rent is due every day."  
-> Stay consistent. Stay curious. Keep building. 🚀

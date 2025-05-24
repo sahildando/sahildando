@@ -90,22 +90,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=d1f7ff&color=524c9e&line=4c5a9e&point=39d025&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# GitHub Profile 3D Contrib.
-
-![svg](https://raw.githubusercontent.com/sahildando/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
-
-[日本語](./docs/README.ja-jp.md) | [Español](./docs/README.es-es.md)
-
-
-* ref. [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
 
 
-- GitHub Docs: [About secrets](https://docs.github.com/en/actions/security-for-github-actions/security-guides/about-secrets)
-
-
-
-![svg](https://raw.githubusercontent.com/sahildando/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
 
 
 

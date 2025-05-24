@@ -36,15 +36,27 @@
 
 ### 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://twitter.com/TheBlackHerald7" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/sahilop" target="blank">
+  <a href="https://www.kaggle.com/sahilop" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://discord.gg/sahilsharma3290" target="blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sahilsharmadandotiya/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sahilsharmaz9v1/?_gl=1*1o3zmbi*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw3MXBBhAzEiwA0vLXQaPL28n_MavVt4BxBUHigY4ZdkOhEcNn7o9OO2LdmEc_j0rBu-LeNhoC45UQAvD_BwE&gbraid=0AAAAAC9yBkBKJIYKliyykZS16oqxd9Q0q" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Sahi01" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://dev.to/kevinlevin" target="blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
@@ -76,9 +88,28 @@
 
 ### 📈 GitHub Contribution Graph
 
-<a href="https://github.com/sahildando">
-  <img alt="Sahil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahildando&theme=react-dark&hide_border=true&area=true" />
-</a>
+import requests
+import plotly.graph_objects as go
 
+# Your GitHub username
+username = 'sahildando'  # change this if needed
+
+# GitHub API to fetch repos
+url = f'https://api.github.com/users/{sahildando}/repos'
+
+# Send request
+response = requests.get(url)
+repos = response.json()
+
+
+# Plotting
+fig = go.Figure([go.Bar(x=repo_names, y=stars)])
+fig.update_layout(
+    title=f'Stars per Repository for @{sahildando}',
+    xaxis_title='Repository',
+    yaxis_title='Stars',
+    xaxis_tickangle=-45
+)
+fig.show()
 ---
 

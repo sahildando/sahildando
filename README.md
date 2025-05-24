@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">🔥 CS Major  
+<h3 align="center"> CS Major  
 <br>Eat. Code. Grind. Repeat. 
-<br>Turning solitude into source code and hustle into legacy. 💯
+<br>Turning solitude into source code and hustle into legacy. 
 </h3>
 
 <div align="center">

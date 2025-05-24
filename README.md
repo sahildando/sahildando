@@ -88,31 +88,60 @@
 
 ### 📈 GitHub Contribution Graph
 
-import requests
-import plotly.graph_objects as go
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Repo Stars Visualization</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <h2 style="text-align:center;">Stars per Repository for @sahildando</h2>
+  <div id="chart" style="width: 100%; max-width: 900px; margin: auto;"></div>
 
-# GitHub username
-username = 'sahildando'
+  <script>
+    const username = "sahildando";
+    const apiUrl = `https://api.github.com/users/${username}/repos`;
 
-# GitHub API to fetch public repos
-url = f'https://api.github.com/users/{username}/repos'
+    fetch(apiUrl)
+      .then((response) => response.json())
+      .then((data) => {
+        const repoNames = data.map(repo => repo.name);
+        const stars = data.map(repo => repo.stargazers_count);
 
-# Send GET request to GitHub
-response = requests.get(url)
-repos = response.json()
+        const trace = {
+          x: repoNames,
+          y: stars,
+          type: 'bar',
+          marker: {
+            color: 'rgba(55, 128, 191, 0.7)',
+            line: {
+              color: 'rgba(55, 128, 191, 1.0)',
+              width: 2
+            }
+          }
+        };
 
-# Extract repo names and stars
-repo_names = [repo['name'] for repo in repos]
-stars = [repo['stargazers_count'] for repo in repos]
+        const layout = {
+          title: `Stars per Repository for @${username}`,
+          xaxis: {
+            title: 'Repository',
+            tickangle: -45
+          },
+          yaxis: {
+            title: 'Stars'
+          }
+        };
 
-# Plotting bar chart
-fig = go.Figure([go.Bar(x=repo_names, y=stars)])
-fig.update_layout(
-    title=f'Stars per Repository for @{username}',
-    xaxis_title='Repository',
-    yaxis_title='Stars',
-    xaxis_tickangle=-45
-)
-fig.show()
+        Plotly.newPlot('chart', [trace], layout);
+      })
+      .catch((error) => {
+        document.getElementById('chart').innerHTML = "<p>Error loading data.</p>";
+        console.error('Error fetching GitHub data:', error);
+      });
+  </script>
+</body>
+</html>
 
 

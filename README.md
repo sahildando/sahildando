@@ -91,25 +91,28 @@
 import requests
 import plotly.graph_objects as go
 
-# Your GitHub username
-username = 'sahildando'  # change this if needed
+# GitHub username
+username = 'sahildando'
 
-# GitHub API to fetch repos
-url = f'https://api.github.com/users/{sahildando}/repos'
+# GitHub API to fetch public repos
+url = f'https://api.github.com/users/{username}/repos'
 
-# Send request
+# Send GET request to GitHub
 response = requests.get(url)
 repos = response.json()
 
+# Extract repo names and stars
+repo_names = [repo['name'] for repo in repos]
+stars = [repo['stargazers_count'] for repo in repos]
 
-# Plotting
+# Plotting bar chart
 fig = go.Figure([go.Bar(x=repo_names, y=stars)])
 fig.update_layout(
-    title=f'Stars per Repository for @{sahildando}',
+    title=f'Stars per Repository for @{username}',
     xaxis_title='Repository',
     yaxis_title='Stars',
     xaxis_tickangle=-45
 )
 fig.show()
----
+
 

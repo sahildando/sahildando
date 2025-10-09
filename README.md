@@ -61,6 +61,8 @@
   </a>
   <a href="https://dev.to/kevinlevin" target="blank">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <a href="https://stackoverflow.com/users/26810475/sahil-sharma" target="blank">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 

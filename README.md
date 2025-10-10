@@ -50,7 +50,7 @@
 - 💡 **Mastering New Abilities:** Currently honing my skills in **Data Structures & Algorithms** and the art of **SQL Wizardry**.  
 - 🎙️ **Knowledge Sharing:** Ask me anything about the secret scrolls of **Networking & Operating Systems**.  
 - ☠️ **Kryptonite:** Sleep. The grind never stops!  
-- 📫 **Batcave:** Reach me at **sahilsharmadandotiya@gmail.com**.
+- 📫 **The Bat-Signal:** Reach me at **sahilsharmadandotiya@gmail.com**.
 
 ---
 
@@ -139,4 +139,3 @@ Here's a map of my recent contributions across the GitHub universe.
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
 </p>
-

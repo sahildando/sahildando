@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Header Banner"/>
-</p>
-
 <div align="center">
+  
+# Sahil Sharma
+### CS Major | Futute-Cracked Dev | Problem Solver
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sahil+Sharma+%F0%9F%91%8B;CS+Student+by+Day...;Code+Warrior+by+Night!;Eat.+Code.+Grind.+Repeat." alt="Typing SVG" /></a>
+*Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*
 
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="350" alt="Mark Grayson Mask Off">
+  <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="400" alt="Mark Grayson Mask Off">
 </div>
 
 ---
@@ -28,9 +27,11 @@
 
 ---
 
-### 🛠️ My Tech Superpowers & Utility Belt
+### 💻 My Tech Superpowers & Arsenal 🔧
 
-This is the arsenal of tools and technologies I use to build my projects.
+Here are the tools and technologies I wield to bring ideas to life.
+
+#### Tech-Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,43 +44,68 @@ This is the arsenal of tools and technologies I use to build my projects.
 ### 🌐 Find Me Across The Metaverse
 
 <p align="center">
-  <a href="https://twitter.com/TheBlackHerald7" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/sahilop" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://discord.gg/sahilsharma3290" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sahilsharmadandotiya/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/user/sahilsharmaz9v1/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Sahi01" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://medium.com/@sahilsharmadandotiya" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/TheBlackHerald7" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sahilop" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/sahilsharma3290" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sahilsharmadandotiya/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sahilsharmaz9v1/" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Sahi01" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sahilsharmadandotiya" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/kevinlevin" target="blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/26810475/sahil-sharma" target="blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 My GitHub Metropolis Stats
+### 🏆 My Hall of Trophies & Hero Stats 📊
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="sahildando" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=dracula&column=7" alt="sahildando" />
   </a>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sahildando's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sahildando&theme=tokyonight&hide_border=true" alt="sahildando's GitHub Streak" />
-  </div>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/sahildando?template=classic&config_timezone=Europe/Amsterdam" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="sahildando's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sahildando&theme=dracula&hide_border=true" alt="sahildando's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="sahildando's Top Languages" />
+</div>
 
 ---
 
-### 🐍 My Contribution Graph
+### 📈 Mission Activity Log
 
-Here is a snake-charmer's view of my coding journey!
+Here's a map of my recent contributions across the GitHub universe.
 
 <p align="center">
-  <img src="https://github.com/sahildando/sahildando/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
+### 🐍 My Contribution Graph
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
+  <img src="https://github-readme-snake.vercel.app/api?username=sahildando&theme=tokyonight&show_icons=true" alt="Snake animation">
+</p>
+
+
+<p align="center">
+  <img src="https://media. giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
 </p>

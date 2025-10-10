@@ -7,6 +7,11 @@
 ![Animated Banner](https://i.gifer.com/7sc3.gif)
 
 # 🌀 **<span style="color:#00FFFF">Sahil Sharma</span>**
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sahil+Sharma+%F0%9F%91%8B;CS+Student+by+Day...;Code+Warrior+by+Night!;Eat.+Code.+Grind.+Repeat." alt="Typing SVG" /></a>
+
+</div>
 ### 💻 CS Major | Future-Cracked Dev | Problem Solver  
 
 *Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*

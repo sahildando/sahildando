@@ -1,12 +1,38 @@
+<!-- 🐍 Ultimate GitHub README by Sahil Sharma -->
+
+<!-- === Animated Gradient Background === -->
 <div align="center">
-  
-# Sahil Sharma
-### CS Major | Futute-Cracked Dev | Problem Solver
+  <img src="https://i.ibb.co/5FzQ9zK/animated-bg.gif" width="100%" height="10" style="opacity:0;">
+  <style>
+    body {
+      background: linear-gradient(-45deg, #1e1f26, #2c2f33, #1a1a1a, #0d0d0d);
+      background-size: 400% 400%;
+      animation: gradientBG 12s ease infinite;
+      color: #f8f8f2;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    @keyframes gradientBG {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
 
-*Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*
+    h1, h3 {
+      color: #00ffff;
+      text-shadow: 0 0 10px #00ffff, 0 0 20px #0077ff, 0 0 30px #0033ff;
+      font-weight: 700;
+    }
+    h3 {
+      color: #ff00ff;
+      text-shadow: 0 0 8px #ff00ff, 0 0 16px #ff33ff;
+    }
+  </style>
 
+  <h1>Sahil Sharma</h1>
+  <h3>CS Major | Future-Cracked Dev | Problem Solver</h3>
+
+  <em>Fueled by coffee, driven by code. My mission is to build solutions that make a difference.</em>
 </div>
-
 
 <div align="center">
   <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="400" alt="Mark Grayson Mask Off">
@@ -20,11 +46,11 @@
   <img src="https://komarev.com/ghpvc/?username=sahildando&label=PROFILE%20VISITORS&color=0e75b6&style=flat-square" alt="sahildando" />
 </p>
 
-- 🎯 **Primary Objective:** Forging a better version of myself, one commit at a time.
-- 💡 **Mastering New Abilities:** Currently honing my skills in **Data Structures & Algorithms** and the art of **SQL Wizardry**.
-- 🎙️ **Knowledge Sharing:** Ask me anything about the secret scrolls of **Networking & Operating Systems**.
--  kryptonite **My Kryptonite:** Sleep. The grind never stops!
-- 📫 **The Bat-Signal:** Reach me at **sahilsharmadandotiya@gmail.com**.
+- 🎯 **Primary Objective:** Forging a better version of myself, one commit at a time.  
+- 💡 **Mastering New Abilities:** Currently honing my skills in **Data Structures & Algorithms** and the art of **SQL Wizardry**.  
+- 🎙️ **Knowledge Sharing:** Ask me anything about the secret scrolls of **Networking & Operating Systems**.  
+- ☠️ **Kryptonite:** Sleep. The grind never stops!  
+- 📫 **Batcave:** Reach me at **sahilsharmadandotiya@gmail.com**.
 
 ---
 
@@ -100,13 +126,17 @@ Here's a map of my recent contributions across the GitHub universe.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-### 🐍 My Contribution Graph
+---
+
+### 🐍 My Contribution Graph (Snake Edition)
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=sahildando&theme=tokyonight&show_icons=true" alt="Snake animation">
+  <img src="https://github.com/sahildando/sahildando/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
+---
 
 <p align="center">
-  <img src="https://media. giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
 </p>
+

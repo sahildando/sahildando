@@ -1,10 +1,4 @@
-<!-- 🐍 Ultimate GitHub README by Sahil Sharma -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-profile/typing.svg" width="0" height="0">
-
-![Animated Banner](https://i.gifer.com/7sc3.gif)
 
 # 🌀 **<span style="color:#00FFFF">Sahil Sharma</span>**
 <div align="center">
@@ -86,17 +80,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" />
 </p>
 
----
-
-### 🐍 My Contribution Graph (Snake Edition)
-
-<p align="center">
-  <img src="https://github.com/sahildando/sahildando/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/d0/d0c4b38ac15a0c1ceaa9a8901276b23b.gif" width="100%" alt="Footer Banner"/>
-</p>
 

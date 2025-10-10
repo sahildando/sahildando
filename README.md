@@ -1,7 +1,7 @@
 <div align="center">
   
 # Sahil Sharma
-### CS Student | Full-Stack Developer | Problem Solver
+### CS Major | Future-Cracked Dev | Problem Solver
 
 *Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*
 

@@ -1,6 +1,6 @@
 
 
-# 🌀 **<span style="color:#00FFFF">Sahil Sharma</span>**
+
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sahil+Sharma+%F0%9F%91%8B;CS+Student+by+Day...;Code+Warrior+by+Night!;Eat.+Code.+Grind.+Repeat." alt="Typing SVG" /></a>
@@ -24,11 +24,29 @@
   <img src="https://komarev.com/ghpvc/?username=sahildando&label=PROFILE%20VISITORS&color=0e75b6&style=flat-square" alt="sahildando" />
 </p>
 
-- 🎯 **Primary Objective:** Forging a better version of myself, one commit at a time.  
-- 💡 **Mastering New Abilities:** Currently honing my skills in **Data Structures & Algorithms** and the art of **SQL Wizardry**.  
-- 🎙️ **Knowledge Sharing:** Ask me anything about the secret scrolls of **Networking & Operating Systems**.  
-- ☠️ **Kryptonite:** Sleep. The grind never stops!  
-- 📫 **The Bat-Signal:** Reach me at **sahilsharmadandotiya@gmail.com**.
+### 🦸‍♂️ My Current Mission Control — *The Invincible Protocol*
+
+💥 **Primary Directive:**  
+To outgrow the man I was yesterday — one commit, one failure, one victory at a time.  
+No excuses. No brakes. Just evolution through pain and persistence.
+
+⚔️ **Skill Upgrades in Progress:**  
+Grinding through the brutal arenas of **Data Structures**, **Algorithms**, and **SQL Wizardry** —  
+because raw power means nothing without control.
+
+🧠 **Knowledge Transmission Mode:**  
+Speak code, think systems.  
+Summon me for the ancient scrolls of **Networking** and **Operating Systems** — I’ll translate chaos into logic.
+
+☠️ **Weakness Protocol (Unpatched Bug):**  
+**Sleep.** The villain I’ve never been able to defeat.  
+But who needs dreams when you’re busy building them?
+
+📡 **Emergency Beacon:**  
+Drop the Bat-Signal here —  
+**[sahilsharmadandotiya@gmail.com](mailto:sahilsharmadandotiya@gmail.com)**  
+I’ll respond faster than a breakpoint on failure.
+
 
 ---
 

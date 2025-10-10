@@ -1,37 +1,16 @@
 <!-- 🐍 Ultimate GitHub README by Sahil Sharma -->
 
-<!-- === Animated Gradient Background === -->
 <div align="center">
-  <img src="https://i.ibb.co/5FzQ9zK/animated-bg.gif" width="100%" height="10" style="opacity:0;">
-  <style>
-    body {
-      background: linear-gradient(-45deg, #1e1f26, #2c2f33, #1a1a1a, #0d0d0d);
-      background-size: 400% 400%;
-      animation: gradientBG 12s ease infinite;
-      color: #f8f8f2;
-      font-family: 'JetBrains Mono', monospace;
-    }
-    @keyframes gradientBG {
-      0% {background-position: 0% 50%;}
-      50% {background-position: 100% 50%;}
-      100% {background-position: 0% 50%;}
-    }
 
-    h1, h3 {
-      color: #00ffff;
-      text-shadow: 0 0 10px #00ffff, 0 0 20px #0077ff, 0 0 30px #0033ff;
-      font-weight: 700;
-    }
-    h3 {
-      color: #ff00ff;
-      text-shadow: 0 0 8px #ff00ff, 0 0 16px #ff33ff;
-    }
-  </style>
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-profile/typing.svg" width="0" height="0">
 
-  <h1>Sahil Sharma</h1>
-  <h3>CS Major | Future-Cracked Dev | Problem Solver</h3>
+![Animated Banner](https://i.gifer.com/7sc3.gif)
 
-  <em>Fueled by coffee, driven by code. My mission is to build solutions that make a difference.</em>
+# 🌀 **<span style="color:#00FFFF">Sahil Sharma</span>**
+### 💻 CS Major | Future-Cracked Dev | Problem Solver  
+
+*Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*
+
 </div>
 
 <div align="center">
@@ -56,8 +35,6 @@
 
 ### 💻 My Tech Superpowers & Arsenal 🔧
 
-Here are the tools and technologies I wield to bring ideas to life.
-
 #### Tech-Stack
 
 <p align="center">
@@ -71,33 +48,15 @@ Here are the tools and technologies I wield to bring ideas to life.
 ### 🌐 Find Me Across The Metaverse
 
 <p align="center">
-  <a href="https://twitter.com/TheBlackHerald7" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/sahilop" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/sahilsharma3290" target="blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/sahilsharmadandotiya/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sahilsharmaz9v1/" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Sahi01" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@sahilsharmadandotiya" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/kevinlevin" target="blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/26810475/sahil-sharma" target="blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
+  <a href="https://twitter.com/TheBlackHerald7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/sahilop"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://discord.gg/sahilsharma3290"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sahilsharmadandotiya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/user/sahilsharmaz9v1/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Sahi01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://medium.com/@sahilsharmadandotiya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/kevinlevin"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/26810475/sahil-sharma"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 ---
@@ -105,25 +64,21 @@ Here are the tools and technologies I wield to bring ideas to life.
 ### 🏆 My Hall of Trophies & Hero Stats 📊
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=dracula&column=7" alt="sahildando" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=dracula&column=7" alt="GitHub Trophies" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="sahildando's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sahildando&theme=dracula&hide_border=true" alt="sahildando's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="sahildando's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=sahildando&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ---
 
 ### 📈 Mission Activity Log
 
-Here's a map of my recent contributions across the GitHub universe.
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" />
 </p>
 
 ---
@@ -131,11 +86,12 @@ Here's a map of my recent contributions across the GitHub universe.
 ### 🐍 My Contribution Graph (Snake Edition)
 
 <p align="center">
-  <img src="https://github.com/sahildando/sahildando/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/sahildando/sahildando/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Footer Banner"/>
+  <img src="https://i.gifer.com/origin/d0/d0c4b38ac15a0c1ceaa9a8901276b23b.gif" width="100%" alt="Footer Banner"/>
 </p>
+

@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mark Grayson+%F0%9F%91%8B;CS+Student+by+Day...;Code+Warrior+by+Night!;Eat.+Code.+Grind.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mark+ Grayson+%F0%9F%91%8B;CS+Student+by+Day...;Code+Warrior+by+Night!;Eat.+Code.+Grind.+Repeat." alt="Typing SVG" />
 </a>
 <div align="center">
   <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="350" alt="Mark Grayson Mask Off">

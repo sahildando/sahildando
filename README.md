@@ -6,6 +6,9 @@
 *Fueled by coffee, driven by code. My mission is to build solutions that make a difference.*
 
 </div>
+p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwdjZucnN5bmluc2w5bnA3ejVmMGRvYnJzZGFtaGl4Z2YyYm83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM5m2i4/giphy.gif" width="100%" alt="Header Banner"/>
+</p>
 
 <div align="center">
   <img src="https://tenor.com/view/taking-off-mask-mark-grayson-invincible-unmasking-mask-off-gif-16049033053207159782.gif" width="400" alt="Mark Grayson Mask Off">

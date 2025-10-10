@@ -50,28 +50,6 @@ I’ll respond faster than a breakpoint on failure.
 
 ---
 
-### 🧬 Hero Evolution Log — *My Identity Blueprint*
-
-🎯 **Primary Objective:**  
-Forging a stronger, smarter version of myself — one commit at a time.
-
-💡 **Skill Mutation in Progress:**  
-Sharpening my edge in **DSA**, **SQL**, and **Systems Programming**.  
-Control the chaos. Command the machine.
-
-🎙️ **Broadcast Channel:**  
-Ask me anything about the **secret scrolls of Networking & Operating Systems**.  
-I don't just study them — I weaponize them.
-
-☠️ **Kryptonite:**  
-Sleep. The grind never stops. Dreams are for those who pause.
-
-📫 **The Bat-Signal:**  
-Ping me anytime at **[sahilsharmadandotiya@gmail.com](mailto:sahilsharmadandotiya@gmail.com)**.  
-Response time? Faster than Atom Eve’s teleport.
-
----
-
 ### 💻 My Tech Superpowers & Arsenal ⚡
 
 #### ⚙️ Core Tech Stack

@@ -231,39 +231,7 @@ I’ll respond faster than a breakpoint on failure.
 
 ---
 
-### 💻 My Tech Superpowers & Arsenal ⚡
 
-#### ⚙️ Core Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,docker,git,vscode,bash,html,css,mongodb,mysql,postman,linux,md&perline=8" />
-  </a>
-</p>
-
----
-
-### 🏆 My Hall of Trophies & Hero Stats 📊
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahildando&theme=dracula&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildando&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=sahildando&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildando&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
----
-
-### 📈 Mission Activity Graph — *The Invincible Timeline*
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildando&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" />
-</p>
-
----
 
 ### 🌐 The Multiverse — *Find Me Across Dimensions*
 

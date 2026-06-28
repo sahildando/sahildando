@@ -19,7 +19,7 @@ current status: abusing claude code at 2am and calling it "productivity"
 
 ## whoami
 
-Final year CS student. India. Government college, no fancy placements.
+Final year CS student. India. Government college.
 Contributing to [aden-hive](https://github.com/aden-hive) (YC-backed) as an open source contributor.
 Previously Power BI dev intern at Softude — built dashboards nobody asked for but everyone needed.
 
